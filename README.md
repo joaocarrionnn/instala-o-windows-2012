@@ -10,13 +10,13 @@
 * Nessa tela , você vai adicionar seu **idioma , a hora , moeda e o método de entrada** de sua preferência , após concluir esses passos clique em 'finalizar' no canto inferior direito.
 
 ### PASSO 2:
-![alt text](.\image-5.png)
+![alt text](./images/image-5.png)
 
 
 * Para passar por essa tela , basta clicar no botão **instalar agora** no meio da tela.
 
 ### PASSO 3:
-![alt text](.\image-6.png)
+![alt text](./images/image-6.png)
 
 * Agora nessa tela você vai selecionar o sistema operacional no qual você quer instalar, **é recomendado instalar a segunda opção pois ela tem interface gráfica** , mas para melhores informações , na parte de baixo das opções aparece o que cada sistema operacional faz. **Após selecionar, clique em finalizar.**
 
