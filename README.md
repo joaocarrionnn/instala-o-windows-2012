@@ -1,29 +1,29 @@
 # Como Instalar o Windows Server 2012 no seu PC
 #### PASSO 1:
 * Logo após de você iniciar o windows , ele vai te mostrar a seguinte tela:
-![alt text](image-3.png)
+![alt text](./images/image-3.png)
     
 * Nessa tela , você vai adicionar seu **idioma , a hora , moeda e o método de entrada** de sua preferência , após concluir esses passos clique em 'finalizar' no canto inferior direito.
 
 ### PASSO 2:
-![alt text](image-5.png)
+![alt text](.\image-5.png)
 
 
 * Para passar por essa tela , basta clicar no botão **instalar agora** no meio da tela.
 
 ### PASSO 3:
-![alt text](image-6.png)
+![alt text](.\image-6.png)
 
 * Agora nessa tela você vai selecionar o sistema operacional no qual você quer instalar, **é recomendado instalar a segunda opção pois ela tem interface gráfica** , mas para melhores informações , na parte de baixo das opções aparece o que cada sistema operacional faz. **Após selecionar, clique em finalizar.**
 
 ### PASSO 4:
-![alt text](image-7.png)
+![alt text](.\image-7.png)
 
 
  * Aceite os termos de licença e avance.
 
  ### PASSO 5:
- ![alt text](image-8.png)
+ ![alt text](.\image-8.png)
 
  * Aqui você vai selecionar a segunda opção que está escrita ***personalizada***.
 
