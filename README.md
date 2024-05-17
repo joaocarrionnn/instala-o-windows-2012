@@ -3,9 +3,7 @@
 * Logo após de você iniciar o windows , ele vai te mostrar a seguinte tela:
 
 ![alt text](./images/image-3.png)
-=======
-![alt text](.\images\image-3.png)
->>>>>>> affe4e0ffb9379aa1c26d97affb3dc0567cb593f
+
     
 * Nessa tela , você vai adicionar seu **idioma , a hora , moeda e o método de entrada** de sua preferência , após concluir esses passos clique em 'finalizar' no canto inferior direito.
 
